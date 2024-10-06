@@ -1,0 +1,10 @@
+Dear [name],
+
+Your Result has been released !!
+
+You have [result] the Exam
+
+And your score is [score] !!
+
+Team,
+Menaka
